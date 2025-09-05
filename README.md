@@ -5,7 +5,6 @@
 </div>
 
 
-<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 <br>
 “I’m Jahid Hasan, a dedicated Android and iOS app developer with a strong focus on building user-friendly, efficient, and innovative mobile applications. My passion lies in turning ideas into reliable digital solutions, combining creativity with technical expertise to deliver apps that truly make an impact and add value.”
 
