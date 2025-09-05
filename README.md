@@ -13,7 +13,7 @@
 
 - **Name**: Md Jahid Hasan
 - **From**: Bangladesh
-- **App Develeoper ** | ** Gaphics Designer** | **Penetration Tester**
+- **App Develeoper**  **Gaphics Designer** | **Penetration Tester**
 - i have experience in Recon,bug Hunting,OSINT,spy.
 - Working Interest On **flatter**.
 - I’m currently learning **everything** 
