@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif" width="100%" height="auto"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif" width="100%" height="auto"/></p>
 
 <div align="center">
 
@@ -63,17 +63,17 @@
 
 <h2><a id="social-media" href="https://www.youtube.com/@Syper-Shuvo"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
 
-<a href="https://www.linkedin.com/in/syper-shuvo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
+<a href="https://www.linkedin.com/in/jahid-hasan-cnpi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
-<a href="https://www.facebook.com/Syper.Shuvo/" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/facebook/facebook.svg" alt="Facebook" height="40" width="35" /></a>
+<a href="https://www.facebook.com/JahidHasan.cnpi" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/facebook/facebook.svg" alt="Facebook" height="40" width="35" /></a>
 &nbsp;
-<a href="https://t.me/+rMg2CQdmZdljNjZl" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
+<a href="#" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
 &nbsp;
 <a href="" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
 &nbsp;
 <a href="https://discord.com" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/discord/discord.svg" alt="Discord" height="40" width="40" /></a>
 &nbsp;
-<a href="https://syper.netlify.app/sypercon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HacherRank" height="40" width="35" /></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HacherRank" height="40" width="35" /></a>
 &nbsp;
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="40" width="35" /></a>
 
