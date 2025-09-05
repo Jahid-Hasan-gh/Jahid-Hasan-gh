@@ -7,7 +7,7 @@
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 <br>
-I’m **Jahid Hasan**, a dedicated Cybersecurity Researcher, Ethical Hacker, and Bug Bounty Hunter. With a deep passion for technology and expertise in vulnerability assessment, penetration testing, and bug hunting, I strive to enhance digital security by identifying and mitigating potential threats. My mission is to protect digital assets and contribute to a safer online environment through responsible disclosure and continuous learning."
+I’m **Jahid Hasan**, a dedicated Android & ISO App Developer."
 <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp" />
 
 
@@ -18,7 +18,7 @@ I’m **Jahid Hasan**, a dedicated Cybersecurity Researcher, Ethical Hacker, and
 - **App Develeoper ** | ** Gaphics Designer** | **Penetration Tester**
 - i have experience in Recon,bug Hunting,OSINT,spy.
 - Working Interest On **flatter**.
-- - I’m currently learning **everything** 
+- I’m currently learning **everything** 
 
 <br>
 
