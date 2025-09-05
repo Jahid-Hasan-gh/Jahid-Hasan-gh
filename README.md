@@ -7,7 +7,7 @@
 
 <img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 <br>
-“I’m Jahid Hasan, a dedicated Android and iOS app developer with a strong focus on building user-friendly, efficient, and innovative mobile applications. My passion lies in turning ideas into reliable digital solutions, combining creativity with technical expertise to deliver apps that truly make an impact and add value.” <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp" />
+“I’m Jahid Hasan, a dedicated Android and iOS app developer with a strong focus on building user-friendly, efficient, and innovative mobile applications. My passion lies in turning ideas into reliable digital solutions, combining creativity with technical expertise to deliver apps that truly make an impact and add value.”
 
 
 <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
