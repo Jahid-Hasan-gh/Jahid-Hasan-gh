@@ -9,12 +9,10 @@
 “I’m Jahid Hasan, a dedicated Android and iOS app developer with a strong focus on building user-friendly, efficient, and innovative mobile applications. My passion lies in turning ideas into reliable digital solutions, combining creativity with technical expertise to deliver apps that truly make an impact and add value.”
 
 
-<h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
 
 - **Name**: Md Jahid Hasan
 - **From**: Bangladesh
-- **App Develeoper**  **Gaphics Designer** | **Penetration Tester**
-- i have experience in Recon,bug Hunting,OSINT,spy.
+- **App Develeoper** | **Gaphics Designer** 
 - Working Interest On **flatter**.
 - I’m currently learning **everything** 
 
